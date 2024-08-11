@@ -31,8 +31,3 @@ To observe and hence quantify the effects of polarization and hatred from the tw
 * Will learning how the political graph(a social network among the actors of the conversation) of such conversations can be helpful?
 * Does time play any role? Old comments or newer comments? 
 * Can this be modelled as a Makov Chain instead of NNs
-
-
-## Data Description :  
-
-## Literature Review : 
