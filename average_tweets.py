@@ -29,7 +29,7 @@ def average_tweets(twitter_handles=None,politician=None):
     key=list(average_tweet.keys())
     # plt.bar(key, average_tweet.values(), color='grey')
     plt.bar(key, average_tweet.values())
-    plt.xticks(key, rotation='-90')
+    plt.xticks(key, rotation='vertical')
     plt.ylabel('Average tweets per day')
     plt.tight_layout()
     plt.grid(color='k', linestyle='--', linewidth=0.2)
@@ -38,7 +38,8 @@ def average_tweets(twitter_handles=None,politician=None):
 
 if __name__ == '__main__':
     twitter_handles = os.listdir('data')
-    twitter_handles.remove(".DS_Store")
+    if ".DS_Store" in twitter_handles:
+        twitter_handles.remove(".DS_Store")
     real_names = open('real_names.txt').read().split('\n')
     names_dict = {}
     i=0
