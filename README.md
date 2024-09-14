@@ -1,14 +1,5 @@
 # Big_data_project
 
-
-## Table of Contents :
-* [Aim](https://github.com/Divy2000/Big_data_project/new/main?readme=1#aim-)
-* [Motivation](https://github.com/Divy2000/Big_data_project/new/main?readme=1#motivation-)
-* [Objectives](https://github.com/Divy2000/Big_data_project/new/main?readme=1#objectives-)
-* [Hypotheses](https://github.com/Divy2000/Big_data_project/new/main?readme=1#hypotheses-)
-* [Data Description](https://github.com/Divy2000/Big_data_project/new/main?readme=1#data-description-)
-* [Literature Review](https://github.com/Divy2000/Big_data_project/new/main?readme=1#literature-review-)
-
 ## Aim : 
 Aim is to analyze the textual data, comprising of the tweets of the politicians in order to gain insights and patterns from such social media driven conversations for the typical conflicts that very quickly escalate into online hatred.
 
